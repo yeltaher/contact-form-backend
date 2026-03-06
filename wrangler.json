@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "contact-form-backend",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "1700b471-964a-4690-82e2-3870417b9139",
+			"database_name": "contact-form-backend-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
